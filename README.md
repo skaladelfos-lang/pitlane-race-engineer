@@ -72,6 +72,9 @@ https://raceapp.pitlane.gr/create
 
 This generates a random, private room code (e.g. `K7M2QX`) along with a ready-to-share viewer link. Share the code with your team via Discord, WhatsApp, or however you normally coordinate.
 
+<img width="1681" height="686" alt="image" src="https://github.com/user-attachments/assets/76ba4b90-ffd3-4fe9-9395-60223866d657" />
+
+
 ### Running the agent (whoever is currently driving)
 
 1. Make sure Le Mans Ultimate is running.
@@ -91,6 +94,10 @@ https://raceapp.pitlane.gr/?room=YOUR_ROOM_CODE
 
 Works from any browser, any device, any location.
 
+<img width="1463" height="738" alt="image" src="https://github.com/user-attachments/assets/5672423f-42ff-4c5d-89b1-eb65cc65427d" />
+
+<img width="1469" height="748" alt="image" src="https://github.com/user-attachments/assets/aaf3bc17-0316-4831-91af-a48175400392" />
+
 ---
 
 ## During a Race
@@ -98,6 +105,11 @@ Works from any browser, any device, any location.
 - Keep the agent's console window open on the driving PC while racing — closing it disconnects everyone from live updates until it's reopened.
 - When a driver's stint ends and someone else takes over, the new driver runs the agent on their own PC with the same room code — the dashboard keeps working for everyone watching, without them needing to do anything.
 - Car number detection is automatic (no need to enter it manually) — this reliably locks onto your team's actual car within the practice/qualifying window before the race starts.
+
+<img width="1607" height="906" alt="image" src="https://github.com/user-attachments/assets/bdf490c9-8f8a-49d3-9f8a-0cf605ab6279" />
+
+<img width="1253" height="903" alt="image" src="https://github.com/user-attachments/assets/c28050a9-3390-424b-b777-ce8e82a27d7d" />
+
 
 ---
 
