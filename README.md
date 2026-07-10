@@ -94,9 +94,9 @@ https://raceapp.pitlane.gr/?room=YOUR_ROOM_CODE
 
 Works from any browser, any device, any location.
 
-<img width="1463" height="738" alt="image" src="https://github.com/user-attachments/assets/5672423f-42ff-4c5d-89b1-eb65cc65427d" />
+<img width="1115" height="622" alt="image" src="https://github.com/user-attachments/assets/57edec5d-a6e8-4fac-8f25-57ef9978880a" />
 
-<img width="1469" height="748" alt="image" src="https://github.com/user-attachments/assets/aaf3bc17-0316-4831-91af-a48175400392" />
+<img width="1109" height="916" alt="image" src="https://github.com/user-attachments/assets/c139ece0-7702-48d3-9032-a27cb1ad13a3" />
 
 ---
 
