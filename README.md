@@ -44,7 +44,7 @@ Only the driving PC needs anything installed. Everyone else just needs a link.
 ### Requirements
 
 - Windows 10/11
-- [Python 3.9+](https://www.python.org/downloads/) (only needed on the PC that will actually run the agent — during install, tick **"Add Python to PATH"**)
+- [Python 3.9+](https://www.python.org/downloads/) (only needed on the PC that will actually run the agent — during install, tick **"Add Python to PATH"**). Python will be installed automatically.
 - Le Mans Ultimate, with **Settings → Gameplay → Enable Plugins** turned ON
 
 ### Steps
