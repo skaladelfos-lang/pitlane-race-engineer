@@ -106,7 +106,9 @@ Works from any browser, any device, any location.
 - When a driver's stint ends and someone else takes over, the new driver runs the agent on their own PC with the same room code — the dashboard keeps working for everyone watching, without them needing to do anything.
 - Car number detection is automatic (no need to enter it manually) — this reliably locks onto your team's actual car within the practice/qualifying window before the race starts.
 
-<img width="1607" height="906" alt="image" src="https://github.com/user-attachments/assets/bdf490c9-8f8a-49d3-9f8a-0cf605ab6279" />
+<img width="2489" height="684" alt="image" src="https://github.com/user-attachments/assets/2fb78533-b207-4bc8-a788-b84dbce03ac8" />
+
+<img width="3432" height="1296" alt="image" src="https://github.com/user-attachments/assets/dc10e6a5-55df-46ec-9a4e-eda501ae1243" />
 
 <img width="1253" height="903" alt="image" src="https://github.com/user-attachments/assets/c28050a9-3390-424b-b777-ce8e82a27d7d" />
 
