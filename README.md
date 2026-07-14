@@ -79,10 +79,9 @@ This generates a random, private room code (e.g. `K7M2QX`) along with a ready-to
 
 1. Make sure Le Mans Ultimate is running.
 2. Double-click the **"Race Engineer"** shortcut on your Desktop.
-3. You'll be asked for your team's room code — enter the one created above.
-4. It opens your team's shared dashboard automatically in your browser.
-
-You'll be asked for the room code **every time** you launch it — this is intentional, since the same installed copy might be used for different rooms across different races.
+3. Race Engineer will check for any new updates and install them.
+4. Race Engineer will open the Race Engineer — Local Control here you can add you room code and the amount of tyres for the race.
+5. Once you enter your room code Race Enigeer opens your team's shared dashboard automatically in your browser.
 
 ### Watching (everyone else)
 
