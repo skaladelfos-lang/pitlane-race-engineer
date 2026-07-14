@@ -21,7 +21,7 @@ Built for endurance racing: your team's car keeps the same number all race, driv
 - **Live car data**: position, lap, gaps ahead/behind, fuel/energy, pit stops, penalties
 - **Tyre temperatures** (all four corners) and wear, color-coded
 - **Damage detection**, including lost wheels and bodywork damage
-- **Driver aids**: TC, TC Cut, TC Slip, ABS, Brake Bias, Brake Migration
+- **Track map**: Detects the track and scans the track. All cars are shown during a race.
 - **Track flags**, with a flashing indicator for yellow/blue conditions
 - **Shared team rooms** — no accounts needed, just a private code your team creates and shares
 - Works from any device with a browser — phone, laptop, tablet, anywhere with internet
