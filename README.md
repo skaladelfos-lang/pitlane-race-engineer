@@ -104,6 +104,7 @@ Works from any browser, any device, any location.
 - Keep the agent's console window open on the driving PC while racing — closing it disconnects everyone from live updates until it's reopened.
 - When a driver's stint ends and someone else takes over, the new driver runs the agent on their own PC with the same room code — the dashboard keeps working for everyone watching, without them needing to do anything.
 - Car number detection is automatic (no need to enter it manually) — this reliably locks onto your team's actual car within the practice/qualifying window before the race starts.
+- Works best with 1920x1080 full screen mode
 
 <img width="2489" height="684" alt="image" src="https://github.com/user-attachments/assets/2fb78533-b207-4bc8-a788-b84dbce03ac8" />
 
