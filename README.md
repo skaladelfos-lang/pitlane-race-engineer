@@ -96,7 +96,7 @@ Works from any browser, any device, any location.
 
 <img width="1115" height="622" alt="image" src="https://github.com/user-attachments/assets/57edec5d-a6e8-4fac-8f25-57ef9978880a" />
 
-<img width="1109" height="916" alt="image" src="https://github.com/user-attachments/assets/c139ece0-7702-48d3-9032-a27cb1ad13a3" />
+<img width="1482" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bea557e-b3e2-4deb-ad2f-bef0c40c924a" />
 
 ---
 
