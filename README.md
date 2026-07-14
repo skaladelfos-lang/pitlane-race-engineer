@@ -110,7 +110,7 @@ Works from any browser, any device, any location.
 
 <img width="3432" height="1296" alt="image" src="https://github.com/user-attachments/assets/dc10e6a5-55df-46ec-9a4e-eda501ae1243" />
 
-<img width="1253" height="903" alt="image" src="https://github.com/user-attachments/assets/c28050a9-3390-424b-b777-ce8e82a27d7d" />
+<img width="1911" height="1047" alt="image" src="https://github.com/user-attachments/assets/3185485a-8f80-464c-8e35-665ff375c11a" />
 
 
 ---
