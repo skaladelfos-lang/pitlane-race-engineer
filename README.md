@@ -83,6 +83,11 @@ This generates a random, private room code (e.g. `K7M2QX`) along with a ready-to
 4. Race Engineer will open the Race Engineer — Local Control here you can add you room code and the amount of tyres for the race.
 5. Once you enter your room code Race Enigeer opens your team's shared dashboard automatically in your browser.
 
+<img width="1115" height="622" alt="image" src="https://github.com/user-attachments/assets/57edec5d-a6e8-4fac-8f25-57ef9978880a" />
+
+<img width="1482" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bea557e-b3e2-4deb-ad2f-bef0c40c924a" />
+
+
 ### Watching (everyone else)
 
 No installation needed. Just open the room link shared by whoever created it:
@@ -92,11 +97,6 @@ https://raceapp.pitlane.gr/?room=YOUR_ROOM_CODE
 ```
 
 Works from any browser, any device, any location.
-
-<img width="1115" height="622" alt="image" src="https://github.com/user-attachments/assets/57edec5d-a6e8-4fac-8f25-57ef9978880a" />
-
-<img width="1482" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bea557e-b3e2-4deb-ad2f-bef0c40c924a" />
-
 ---
 
 ## During a Race
