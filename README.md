@@ -120,7 +120,6 @@ Works from any browser, any device, any location.
 This is a beta release. A few things aren't available yet — not bugs, but genuine gaps in what Le Mans Ultimate's data currently exposes:
 
 - **Penalty type** (Stop-Go vs Drive-Through) — only whether a penalty is active, not which kind. Check the in-game HUD for the specific type.
-- **Front/Rear Brake Duct Blanking** and **Rear Wing** setting — not tracked in LMU's available data for any car.
 - Tyre temps, damage, and driver aids require the driving PC to actually be controlling the car — a pure spectator's data won't show these fields for the car they're watching.
 
 ---
