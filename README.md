@@ -108,7 +108,7 @@ Works from any browser, any device, any location.
 
 <img width="2489" height="684" alt="image" src="https://github.com/user-attachments/assets/2fb78533-b207-4bc8-a788-b84dbce03ac8" />
 
-<img width="3432" height="1296" alt="image" src="https://github.com/user-attachments/assets/dc10e6a5-55df-46ec-9a4e-eda501ae1243" />
+<img width="2417" height="1090" alt="image" src="https://github.com/user-attachments/assets/fa31168a-d4cd-46e4-8bcb-0defcc738c8b" />
 
 <img width="1911" height="1047" alt="image" src="https://github.com/user-attachments/assets/3185485a-8f80-464c-8e35-665ff375c11a" />
 
