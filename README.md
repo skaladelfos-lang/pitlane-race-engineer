@@ -71,6 +71,7 @@ One person on the team visits:
 ```
 https://raceapp.pitlane.gr/create
 ```
+<img width="1753" height="774" alt="image" src="https://github.com/user-attachments/assets/b11ce41a-e031-4d23-beae-dd1282920ea1" />
 
 This generates a random, private room code (e.g. `K7M2QX`) along with a ready-to-share viewer link. Share the code with your team via Discord, WhatsApp, or however you normally coordinate.
 
