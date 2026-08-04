@@ -120,6 +120,8 @@ Your inputs and results are remembered per-room, so navigating back and forth be
 - Car number detection is automatic (no need to enter it manually) — this reliably locks onto your team's actual car within the practice/qualifying window before the race starts, and stays locked even through brief data gaps during a driver change.
 - Works best with 1920×1080 full screen mode.
 
+  <img width="1753" height="774" alt="image" src="https://github.com/user-attachments/assets/b78c53a4-293d-4c67-9473-9937bb1e9153" />
+
 ---
 
 ## Known Limitations
